@@ -1,4 +1,4 @@
-# ShivaneKapoor_102203191_Parameter-Optimization-of-SVM
+# Kaustubh_Singh_102203194_Parameter-Optimization-of-SVM
 
 # 🔍 SVM Hyperparameter Tuning on Letter Recognition Data
 
@@ -59,7 +59,8 @@ Each of the 10 dataset splits was trained using the `SVC` model with the followi
 
 Below is the simulated convergence plot for the **best-performing sample**, showing how accuracy improved during parameter exploration.
 
-![image](https://github.com/user-attachments/assets/21accb83-15e3-47a3-9266-57a1bcaa9d79)
+![convergence_plot_sample9_20250419_184437](https://github.com/user-attachments/assets/87df1040-65e5-429a-9080-30cd2fc42eab)
+
 
 
 ---
@@ -68,7 +69,8 @@ Below is the simulated convergence plot for the **best-performing sample**, show
 
 Each row in the results table corresponds to the **best configuration** for one of the 10 randomized data splits.
 
-![image](https://github.com/user-attachments/assets/821eea06-26d2-4e98-b5b0-9655f9a74727)
+![image](https://github.com/user-attachments/assets/f854fcaf-607d-41cc-a78c-09e3d00d1756)
+
 
 
 Includes:
@@ -86,7 +88,8 @@ A basic analytics summary is generated and saved:
 - Highest achieved accuracy
 - Corresponding SVM parameters
 
-![image](https://github.com/user-attachments/assets/6999ec7f-a827-4ced-aa65-869b581a347a)
+![image](https://github.com/user-attachments/assets/0fde7e63-2cb9-4bbe-8d87-9a496258c0b9)
+
 
 
 ---
@@ -105,6 +108,6 @@ A basic analytics summary is generated and saved:
 
 This experiment demonstrates how **SVM**, even with a basic feature set, can perform well on complex multiclass classification tasks when tuned effectively. The workflow is modular and extensible, making it easy to adapt for future machine learning experiments.
 
-Shivane Kapoor_3C15_(102203191)
+Kaustubh_Singh_3C15_(102203194)
 
 ---
