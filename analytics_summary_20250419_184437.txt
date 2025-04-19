@@ -1,0 +1,7 @@
+dataset_name: Letter Recognition
+dataset_size: (20000, 16)
+test_size_per_sample: 5000
+num_classes: 26
+best_sample_number: 9
+best_accuracy: 0.9752
+best_params: {'kernel': 'rbf', 'gamma': 'auto', 'C': 10}
